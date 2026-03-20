@@ -1,3 +1,5 @@
+# Task 1: Write sales Records to a file.
+
 sales = [1200, 450, 980, 1500, 3000]
 
 with open("sales_data.txt", "w") as file:
