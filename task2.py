@@ -1,3 +1,6 @@
+# Task 2: Read fiel in diffent ways.
+
+
 filename = "sales_data.txt"
 
 print("--- Method 1: .read() ---")
