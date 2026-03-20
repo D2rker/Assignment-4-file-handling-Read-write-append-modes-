@@ -1,3 +1,6 @@
+# Task 7: Mini project- Export discounted prices.
+
+
 prices = {
     "Mouse": 500,
     "Keyboard": 800,
