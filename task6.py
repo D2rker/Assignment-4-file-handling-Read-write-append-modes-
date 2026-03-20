@@ -1,3 +1,6 @@
+# Task 6: Read file safely (error handling inside file handling only).
+
+
 import os
 
 filename = input("Enter the filename you wish to open: ")
