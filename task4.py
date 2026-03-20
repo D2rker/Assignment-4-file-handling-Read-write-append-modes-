@@ -1,3 +1,6 @@
+# Task 4: Generates report summary from a file.
+
+
 filename = "sales_data.txt"
 sales_list = []
 
