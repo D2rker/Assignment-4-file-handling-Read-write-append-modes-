@@ -1,3 +1,5 @@
+# Task 3: Append new sales.
+
 filename = "sales_data.txt"
 new_sales = [5000, 2500, 1700]
 
