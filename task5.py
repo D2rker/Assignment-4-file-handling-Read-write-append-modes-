@@ -1,3 +1,6 @@
+# Task 5: create product into file(user input).
+
+
 filename = "products.txt"
 
 
